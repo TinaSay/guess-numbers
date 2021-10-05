@@ -2,6 +2,10 @@
 
 Number guessing game where you speak your guess into the microphone using the speech recognition API
 
+## Demo
+
+https://tinasay.github.io/guess-numbers/
+
 ## Project Specifications
 
 - Display UI directing user to speak guess
